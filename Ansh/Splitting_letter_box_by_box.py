@@ -29,4 +29,4 @@ for box in boxes:
     # Save the character to a file
     char_image_pil.save(f'char_{x}_{y}.png')
 
-print("Character extraction complete.")
+print("Character extraction complete")
